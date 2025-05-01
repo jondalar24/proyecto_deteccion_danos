@@ -3,4 +3,5 @@ __pycache__/
 *.__pycache__
 .DS_Store
 *.csv
-*.h5
+modelo_entrenado.h5
+
